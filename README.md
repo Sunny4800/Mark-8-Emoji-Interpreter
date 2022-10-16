@@ -1,6 +1,6 @@
 # Mark-8 Emoji-Interpreter 😊
 <br>⬤ It is an Emoji Interpreter App .
-<br>⬤ It takes the emoji as the input and dispays the meaning of the emoji as the output if the emoji meaning exist in the database.
+<br>⬤ It takes the emoji as the input and displays the meaning of the emoji as the output if the emoji meaning exist in the database.
 ## Tech Stacks Used -
 <br>⬤ CSS<br>
 ⬤ ReactJS<br>
